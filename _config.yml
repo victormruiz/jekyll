@@ -1,0 +1,11 @@
+# Site settings
+title: "victormruiz"
+bye_message: "Thx!"
+baseurl: "/"
+url: "https://gjuniioor.github.io"
+disqus: gjuniioor
+
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
