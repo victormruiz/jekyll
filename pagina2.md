@@ -4,7 +4,6 @@ title: listas e imagenes
 permalink: /imagen
 ---
 
-1. Esto
 2. Es
 3. Una
 4.Lista
