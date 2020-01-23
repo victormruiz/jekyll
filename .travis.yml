@@ -29,6 +29,6 @@ notifications:
 deploy:
   provider: surge
   project: .
-  domain: jekyll.surge.sh
+  domain: jekyllpoanoshe.surge.sh
   skip_cleanup: true
 
